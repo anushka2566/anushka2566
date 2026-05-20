@@ -17,6 +17,8 @@
 
 <br><br>
 
+---
+
 <!-- ===================== NAME SECTION ===================== -->
 
 <div align="center">
@@ -75,6 +77,11 @@
 <a href="https://maruthi-anushka.vercel.app/">
 <img src="https://img.icons8.com/fluency/55/domain.png"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.skills.google/public_profiles/f6014b1d-b395-40d6-b2bd-28ba0abe5d4a">
+<img src="https://skillicons.dev/icons?i=gcp" width="55"/>
+</a>
 
 </div>
 <br>
@@ -89,37 +96,52 @@
 
 # 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering student at GVPCEW(A)  
-- 🚀 Secured 2nd place in a Gen AI Hackathon (Next Chapter)  
-- 🧠 Strong problem-solving mindset with 200+ LeetCode problems solved  
+- 🎓 Computer Science Engineering student at **GVPCEW(A)**  
+- 🚀 Secured **2nd place** in a **Gen AI Hackathon** conducted by Next Chapter  
+- 🌸 Contributor & Mentee at **GirlScript Summer of Code (GSSoC)**  
+- 📱 Google Play Console Developer building and publishing applications  
+- 🧠 Strong problem-solving mindset with **200+ LeetCode problems solved**  
 - 💡 Passionate about building scalable, user-centric real-world solutions  
-- ⚡ Curious about emerging tech, especially AI tools and intelligent systems  
-- 📚 Strengthening core CS fundamentals (DSA, OS, DBMS, CO)  
-- 💬 Confident communicator with strong articulation and clarity  
-- 😄 Fun fact: if an idea makes sense, I’m already thinking about how to build it  
+- ⚡ Curious about emerging technologies, especially **AI tools & intelligent systems**  
+- 📚 Continuously strengthening core CS fundamentals (**DSA, OS, DBMS, CO**)  
+- ☁️ Active learner in cloud and AI ecosystems through **Google Cloud Skills Boost**  
+- 💬 Confident communicator with strong articulation, curiosity, and creativity  
+- 😄 Fun fact: *If an idea makes sense, I’m already thinking about how to build it.*  
 
 ---
 
 # 💼 Experience
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
 ## 🧠 Python with AI & ML Intern  
-### Next Chapter × Wipro | Jan 2026 – Present
+### Next Chapter × Wipro | Jan 2026 – May 2026
 
-- Working on real-time AI/ML concepts and practical implementations  
-- Building and experimenting with models using Python  
-- Understanding industry workflows and problem-solving approaches  
+- Worked on real-time AI/ML concepts and practical implementations  
+- Built and experimented with models using Python  
+- Gained exposure to industry workflows and collaborative problem solving  
 
-<br><br>
+## 🌸 Contributor & Mentee  
+### GirlScript Summer of Code (GSSoC) | May 2026 – Present
+
+- Contributing to open-source projects and collaborative development  
+- Exploring real-world development practices through mentorship and contributions  
+- Strengthening GitHub workflow, teamwork, and project-building skills  
+
+## 💻 Web Development Intern  
+### CodSoft | May 2026 – Present
+
+- Developing responsive and creative web development projects using HTML, CSS, and JavaScript  
+- Exploring frontend development concepts, UI design, and responsive layouts through hands-on implementation  
+- Managing project repositories and showcasing development work through GitHub and LinkedIn  
 
 ---
 
 # 🏆 Achievements
 
-
 - 🏆 National Finalist – AlgoUniversity Tech Fellowship (ATF) 2025–26  
   - Top 0.2% among 100,000+ applicants nationwide  
+
+- 🌸 Accepted as Contributor & Mentee at GirlScript Summer of Code (GSSoC) 2026  
+  - Selected among 35,000+ applicants for the AI/Agents & Open Source Track  
 
 - 🚀 2nd place in Gen AI Hackathon (Next Chapter in collaboration with Wipro)  
 
@@ -127,9 +149,9 @@
 
 - 🌟 Internshala Student Partner (ISP)  
 
-- ☁️ Completed Google Cloud Skills Boost via GDG  
+- ☁️ Completed Google Cloud Skills Boost via GDG with hands-on cloud learning experience  
 
-- 🧠 Solved 200+ problems on LeetCode  
+- 🧠 Solved 200+ problems on LeetCode with active consistency and streaks  
 
 - 📄 Working on a research paper:  
   *Application of Large Language Models for Language Teaching and Assessment Technology*  
