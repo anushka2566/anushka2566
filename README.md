@@ -191,12 +191,44 @@
 - ☁️ Google Cloud Generative AI & Data Processing (Google Cloud Arcade)  
 - ☁️ Azure Fundamentals: Cloud Computing (Skillsoft)  
 - 🤖 Foundations in Generative AI (IBM SkillsBuild)  
+- 🌐 Web Development Fundamentals (IBM SkillsBuild)  
 - 🟢 MongoDB, JavaScript & Node.js (Infosys Springboard)  
 - 🧠 Basic Python Certification (HackerRank)  
 
 ---
 
 # 🚀 Projects
+
+## 📌 KaamSetu App (with AI Assistant)
+
+<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dmbm5wM3k4ZjRjMHBwaDJmOWJ5d2V5MnBwb2QzZnBtb3Vxb2N0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+
+- Built a platform that connects workers and customers, helping users easily find nearby service providers while creating better work opportunities for workers  
+
+### Features:
+- Worker, Customer, and Admin dashboards  
+- Location and work-based worker search  
+- AI-powered multilingual chatbot support  
+- Messaging, calling, ratings, reviews, and scheduling features  
+- Light/Dark theme and multi-language support (Telugu, Hindi, English)  
+- Secure authentication, profile management, and real-time notifications  
+
+### Tech Stack:
+`Python` · `Flask` · `MongoDB` · `HTML` · `CSS` · `JavaScript` · `AI Integration`
+
+### Links:
+🔗 GitHub Repo:  
+https://github.com/anushka2566/kaamsetuthefinal.git
+
+🌐 Live Demo:  
+https://kaamsetuthefinal.vercel.app
+
+### Impact:
+Designed to simplify local service accessibility while supporting workers through a smart digital platform.
+
+<br><br>
+
+---
 
 ## 📌 Assignment Submission & Evaluation System
 
@@ -212,6 +244,10 @@
 ### Tech Stack:
 `Flask` · `MongoDB` · `HTML` · `CSS`
 
+### Links:
+🔗 GitHub Repo:  
+https://github.com/anushka2566/assignment-submission-webapp.git
+
 ### Impact:
 Reduced manual effort in managing academic submissions and evaluations  
 
@@ -219,22 +255,30 @@ Reduced manual effort in managing academic submissions and evaluations
 
 ---
 
-## 📌 KaamSetu App (with AI Assistant)
+## 📌 GDG Community Website
 
-<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dmbm5wM3k4ZjRjMHBwaDJmOWJ5d2V5MnBwb2QzZnBtb3Vxb2N0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- Built a platform connecting users with service providers for everyday tasks  
+- Built a modern community platform inspired by social media interactions for GDG communities  
 
 ### Features:
-- Service request and provider matching  
-- AI-powered assistant for query handling and guidance  
-- User-friendly interface  
+- Event updates and announcements  
+- Posts, likes, comments, and interactive community engagement  
+- Real-time updates and responsive UI experience  
+- Social-media-style community interaction features  
 
 ### Tech Stack:
-`Python` · `Flask` · `MongoDB` · `JavaScript`
+`React` · `Supabase` · `Tailwind CSS`
+
+### Links:
+🔗 GitHub Repo:  
+https://github.com/anushka2566/gdgcommunity.git
+
+🌐 Live Demo:  
+https://gdgcommunity.vercel.app
 
 ### Impact:
-Simplifies access to local services with AI-driven support  
+Created an engaging digital space for community interaction, updates, and collaboration  
 
 <br><br>
 
