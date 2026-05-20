@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/u/Bonam_Maruthi_Anushka/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/>
   </a>
-  <a href="https://gleaming-web-canvas.lovable.app/">
+  <a href="https://maruthi-anushka.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge"/>
   </a>
 </p>
