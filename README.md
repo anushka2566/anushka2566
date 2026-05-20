@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="assets/come-here.gif" width="120"/>
+<img src="assets/come-here.gif" width="300"/>
 
 </div>
 
@@ -43,11 +43,11 @@
 
 <div align="center">
 
-<a href="https://maruthi-anushka.vercel.app/" target="_blank">
+<div align="center">
 
-<img src="https://img.shields.io/badge/✨ Know More About Me ✨-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+### ✨ Know More About Me ✨
 
-</a>
+</div>
 
 </div>
 
@@ -58,23 +58,25 @@
 <div align="center">
 
 <a href="mailto:maruthianushkabonam@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/maruthi-anushka-bonam-229774322/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Bonam_Maruthi_Anushka/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://maruthi-anushka.vercel.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png"/>
+<img src="https://img.icons8.com/fluency/55/domain.png"/>
 </a>
 
 </div>
-
 <br>
 
 <div align="center">
@@ -115,11 +117,6 @@
 
 # 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anushka2566&theme=tokyonight&no-frame=true&row=1&column=4"/>
-
-</p>
 
 - 🏆 National Finalist – AlgoUniversity Tech Fellowship (ATF) 2025–26  
   - Top 0.2% among 100,000+ applicants nationwide  
@@ -167,12 +164,6 @@
 ---
 
 # 📚 Certifications
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
-
-</div>
 
 - ☁️ Data Processing & Visualization (NASSCOM FutureSkills) – Gold Certified  
 - ☁️ Google Cloud Generative AI & Data Processing (Google Cloud Arcade)  
@@ -270,16 +261,6 @@ Simplifies access to local services with AI-driven support
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushka2566&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anushka2566/anushka2566/output/snake.svg" alt="Snake animation"/>
 
 </div>
 
