@@ -60,27 +60,27 @@
 <div align="center">
 
 <a href="mailto:maruthianushkabonam@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/maruthi-anushka-bonam-229774322/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Bonam_Maruthi_Anushka/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://maruthi-anushka.vercel.app/">
-<img src="https://img.icons8.com/fluency/55/domain.png"/>
+<img src="https://img.icons8.com/fluency/35/domain.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.skills.google/public_profiles/f6014b1d-b395-40d6-b2bd-28ba0abe5d4a">
-<img src="https://skillicons.dev/icons?i=gcp" width="55"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="35"/>
 </a>
 
 </div>
@@ -201,7 +201,6 @@
 
 ## 📌 KaamSetu App (with AI Assistant)
 
-<img align="right" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dmbm5wM3k4ZjRjMHBwaDJmOWJ5d2V5MnBwb2QzZnBtb3Vxb2N0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 - Built a platform that connects workers and customers, helping users easily find nearby service providers while creating better work opportunities for workers  
 
@@ -229,10 +228,7 @@ Designed to simplify local service accessibility while supporting workers throug
 <br><br>
 
 ---
-
 ## 📌 Assignment Submission & Evaluation System
-
-<img align="right" width="280" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
 - Developed a full-stack web application to streamline assignment submission and evaluation  
 
@@ -256,8 +252,6 @@ Reduced manual effort in managing academic submissions and evaluations
 ---
 
 ## 📌 GDG Community Website
-
-<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - Built a modern community platform inspired by social media interactions for GDG communities  
 
